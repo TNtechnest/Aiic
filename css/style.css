@@ -980,9 +980,9 @@ a:focus {
   scroll-behavior: smooth;
   margin-left: 35px;
   margin-right: 10px;
-  
+  right: -130px;
   white-space: nowrap;
-
+  position: relative;
   padding: 5px;
   border: 1px solid #fafafa00;
   background-color: #ffffff00;
@@ -1158,14 +1158,14 @@ a:focus {
   
   width: 300px;
   height: 334px;
-
+  top: -385px;
   overflow: hidden;
   padding: 10px;
    font-family: "Maname", serif;
   position: relative;
-  margin-left: 1150px;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  margin-left: 907px;
+ 
+ 
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -1176,6 +1176,7 @@ a:focus {
           align-items: center;
   text-align: center;
   margin-top: 45px;
+ 
   background: linear-gradient(115deg, #fa8bff, #2bd2ff, #2bff88);
   padding: 20px;
   grid-template-columns: repeat(2, 1fr);
