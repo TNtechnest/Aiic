@@ -980,7 +980,7 @@ a:focus {
   scroll-behavior: smooth;
 
   
-  right: -130px;
+  right: -5px;
   white-space: nowrap;
   position: relative;
   padding: 5px;
@@ -1220,13 +1220,3 @@ a:focus {
     top: -100%;
   }
 }
-
-
-
-
-
-
-
-
-
-
