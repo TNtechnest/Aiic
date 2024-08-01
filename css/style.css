@@ -978,8 +978,8 @@ a:focus {
   display: flex;
   overflow-x: auto;
   scroll-behavior: smooth;
-  margin-left: 35px;
-  margin-right: 10px;
+
+  
   right: -130px;
   white-space: nowrap;
   position: relative;
@@ -989,7 +989,7 @@ a:focus {
   border-radius: 10px;
   width: 100%;
   height: 100%; /* Ensures container1 uses the full width of the parent */
-  max-width: 1200px; /* Adjust the maximum width to hold more cards */
+   /* Adjust the maximum width to hold more cards */
   /* Hide the scrollbar */
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE and Edge */
